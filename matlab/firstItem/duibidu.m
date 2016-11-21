@@ -195,7 +195,7 @@ title('我的算法')
 % imshow(outpic);
 % title('我的算法')
 
-
+%wo de suan fa
 
 
 
